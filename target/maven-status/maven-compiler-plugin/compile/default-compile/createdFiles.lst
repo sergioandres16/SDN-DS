@@ -1,0 +1,6 @@
+com\example\dataservice\Entity\Credential.class
+com\example\dataservice\Repository\UserRepository.class
+com\example\dataservice\Controller\OfficialDataService.class
+com\example\dataservice\DataServiceApplication.class
+com\example\dataservice\Entity\Curso.class
+com\example\dataservice\Entity\User.class
